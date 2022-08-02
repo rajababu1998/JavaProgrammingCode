@@ -9,7 +9,7 @@ public class PrintAllTheKeyValuePair {
         String x = "ARADHYA";
         char a[] = x.toCharArray();
 
-        Map<Character,Integer>map = new HashMap<>();
+        Map<Character,Integer> map = new HashMap<>();
         int size = x.length();
         int i=0;
         while (i != size) {

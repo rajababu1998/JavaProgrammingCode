@@ -130,23 +130,23 @@ public class SinglyLinkedList2 {
         singlyLinkedList2.traverse();
 
          singlyLinkedList2.insertAtEnd(8);
-//        singlyLinkedList2.insertAtEnd(-10);
-//        singlyLinkedList2.insertAtEnd(20);
+        singlyLinkedList2.insertAtEnd(-10);
+        singlyLinkedList2.insertAtEnd(20);
         singlyLinkedList2.traverse();
-//        singlyLinkedList2.insertAtStart(-100);
-//        singlyLinkedList2.insertAtStart(-50);
-//        singlyLinkedList2.traverse();
-//
-//        singlyLinkedList2.insertAtPosition(1000, -2);
-//        singlyLinkedList2.insertAtPosition(2000, 0);
-//        singlyLinkedList2.insertAtPosition(3000, 7);
-//        singlyLinkedList2.insertAtPosition(10000, 3);
+        singlyLinkedList2.insertAtStart(-100);
+        singlyLinkedList2.insertAtStart(-50);
+        singlyLinkedList2.traverse();
+
+        singlyLinkedList2.insertAtPosition(1000, -2);
+        singlyLinkedList2.insertAtPosition(2000, 0);
+        singlyLinkedList2.insertAtPosition(3000, 7);
+        singlyLinkedList2.insertAtPosition(10000, 3);
 //        singlyLinkedList2.traverse();
 //        singlyLinkedList2.insertAtPosition(20000, 1);
 //        singlyLinkedList2.traverse();
 //        singlyLinkedList2.insertAtPosition(30000, 8);
 //
-//        singlyLinkedList2.traverse();
+        singlyLinkedList2.traverse();
 //
 //        singlyLinkedList2.delete(1);
 //        singlyLinkedList2.traverse();

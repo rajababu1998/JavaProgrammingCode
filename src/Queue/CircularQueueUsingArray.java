@@ -67,7 +67,7 @@ public class CircularQueueUsingArray {
         if(front == -1) {
             System.out.println("Queue is empty");
         }
-        //queue contains only one element
+        //queue contains only one element.
         else if(front == rear) {
             front = -1;
             rear = -1;
